@@ -12,5 +12,6 @@ adb shell pm uninstall -k --user 0 com.opera.browser.afin
 adb shell pm uninstall -k --user 0 com.google.android.videos
 adb shell pm uninstall -k --user 0 com.google.android.apps.safetyhub
 adb shell pm uninstall -k --user 0 com.snapchat.android
+adb shell pm uninstall -k --user 0 com.preff.kb.xm
 echo "These apps can be installed via Playstore so no point keeping them"
 pause
