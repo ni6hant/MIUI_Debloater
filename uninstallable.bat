@@ -4,7 +4,7 @@ adb shell pm uninstall -k --user 0 com.netflix.mediaclient
 adb shell pm uninstall -k --user 0 com.google.android.apps.magazines
 adb shell pm uninstall -k --user 0 com.king.candycrushsaga
 adb shell pm uninstall -k --user 0 com.soulcompany.bubbleshooter.relaxing
-adb shell pm uninstall -k --user 0 com.block.jungle
+adb shell pm uninstall -k --user 0 com.block.juggle
 adb shell pm uninstall -k --user 0 com.xiaomi.mi_care
 adb shell pm uninstall -k --user 0 com.mintgames.zentriple3d
 adb shell pm uninstall -k --user 0 com.amazon.avod.thirdpartyclient
